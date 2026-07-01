@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Golf"
+  short_description: "Shortest correct code changes"
+  default_prompt: "Use $code-golf to simplify this implementation while preserving behavior."

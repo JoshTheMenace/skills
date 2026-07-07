@@ -29,7 +29,3 @@ Then cut in this order:
 - Do not add dependencies, layers, options, or comments unless they pay for themselves now.
 - Prefer boring obvious code over clever compression.
 - If the smallest correct version skips a possible extension, mention the extension briefly after the code.
-
-## Output
-
-Code first. Then give a golf scorecard: list each case the original handled and confirm the shorter version still handles it. Any case you cannot account for means you removed too much; restore it.
